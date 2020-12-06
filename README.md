@@ -1,4 +1,4 @@
-# universityDB-project
+# university-db
 
 This is an SQL project intended for the university for learning purposes.
 
