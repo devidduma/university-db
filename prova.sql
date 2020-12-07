@@ -1,5 +1,0 @@
-DROP TABLE IF EXISTS ProfessorsSemesterlySurvey;
-DROP TABLE IF EXISTS attend;
-DROP TABLE IF EXISTS requires;
-DROP TABLE IF EXISTS exam;
-DROP TABLE IF EXISTS Courses;
